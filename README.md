@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmarinel&label=Profile%20views&color=0e75b6&style=flat" alt="mmarinel" /> </p>
 
-- 🌱 I’m currently learning **Unix, Bash, C, C++, OS, algorithmics, Theoretical Computer Science, Delcarative and Functional Programming**
+- 🌱 I’m currently learning **Unix, Bash, C, C++, OS theory, algorithmics, Delcarative and Functional Programming**
 
 - 📫 How to reach me **mmarinel@student.42roma.it**
 
