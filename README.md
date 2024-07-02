@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matteo Marinelli (mmarinel)</h1>
-<h3 align="center">A Student of Computer Science (42RomaLuiss & Università di Roma "Tor Vergata")</h3>
+<h3 align="center">a C++ Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmarinel&label=Profile%20views&color=0e75b6&style=flat" alt="mmarinel" /> </p>
-
-- 🌱 I’m currently learning **Unix, C, C++, algorithmics**
  
-- 💡 Im' interested in **algorithmics, randomness in computing, parallel and distributed discrete-event simulations, delcarative and functional Programming, theoretical computer science**
+- 💡 Im' interested in **algorithmics & AI, performance critical applications and C++ programming, Linux and Operating Systems**
 
 - 📫 How to reach me **mmarinel@student.42roma.it**
 
